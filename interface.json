@@ -1,0 +1,15 @@
+{
+  "brand": {
+    "type": "string",
+    "default": "Brand"
+  },
+  "description": {
+    "type": "string",
+    "default": "good stuff"
+  },
+  "theme": {
+    "type": "enum",
+    "values": ["a", "b", "d", "c"],
+    "default": "a"
+  }
+}
