@@ -1,0 +1,24 @@
+{
+  "name": "brand-page-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-template-preview/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CurrentCoin/brand-page-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CurrentCoin/brand-page-template/issues"
+  },
+  "homepage": "https://github.com/CurrentCoin/brand-page-template#readme",
+  "dependencies": {
+    "react-template-preview": "1.0.25"
+  }
+}
