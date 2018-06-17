@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/CurrentCoin/brand-page-template#readme",
   "dependencies": {
-    "react-template-preview": "1.0.25"
+    "react-template-preview": "latest"
   }
 }
